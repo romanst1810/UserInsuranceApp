@@ -1,0 +1,1 @@
+C:\Users\ronan\source\repos\UserInsuranceApp\userinsuranceapp.client\obj\Debug\userinsuranceapp.client.esproj.CoreCompileInputs.cache
