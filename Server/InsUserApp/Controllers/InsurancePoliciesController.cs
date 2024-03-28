@@ -1,5 +1,5 @@
-﻿using InsUserApp.Core.Models;
-using InsUserApp.DAL;
+﻿using Core.Models;
+using DAL;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

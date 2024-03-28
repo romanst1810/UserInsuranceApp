@@ -1,5 +1,5 @@
-﻿using InsUserApp.Core.Interfaces;
-using InsUserApp.Core.Models;
+﻿using Core.Interfaces;
+using Core.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

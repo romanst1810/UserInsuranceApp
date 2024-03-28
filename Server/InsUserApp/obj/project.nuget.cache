@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kmtcM+DULMbL88n5XmnV0TAVWBUEj5fGKXm7ALN+l3JhiZAP8i3Wg9hszMu0vcLkPt8eDaerQPPqHqQ63axY5w==",
+  "dgSpecHash": "F+o5UAJL3/Dl4raB9EgdMp44+dr/9syWfLSsgVIt5wwqme9y+yqyAKIqe0dOjMBcG6hDaKi8HxIzAwLNzSteuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\InsUserApp.csproj",
+  "projectFilePath": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\InsUserApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronan\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ronan\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

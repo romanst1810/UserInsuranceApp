@@ -1589,6 +1589,32 @@
             "rid": "win"
           }
         }
+      },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.3",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.3"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        }
       }
     }
   },
@@ -4512,10 +4538,22 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Core >= 1.0.0",
+      "DAL >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.3",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.3",
       "Microsoft.EntityFrameworkCore.Relational >= 8.0.3",
@@ -4532,11 +4570,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\InsUserApp.csproj",
+      "projectUniqueName": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\InsUserApp.csproj",
       "projectName": "InsUserApp",
-      "projectPath": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\InsUserApp.csproj",
+      "projectPath": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\InsUserApp.csproj",
       "packagesPath": "C:\\Users\\ronan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\obj\\",
+      "outputPath": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -4557,7 +4595,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\Core\\Core.csproj"
+            },
+            "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\DAL\\DAL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,54 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\",
+  "WorkspaceRootPath": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\insuserapp\\insuserapp\\controllers\\insurancepoliciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\userinsuranceapp\\server\\insuserapp\\insuserapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\insuserapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\userinsuranceapp\\server\\insuserapp\\controllers\\insurancepoliciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\controllers\\insurancepoliciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\insuserapp\\insuserapp\\dal\\insurancepolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\dal\\insurancepolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\insuserapp\\insuserapp\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\insuserapp\\insuserapp\\migrations\\20240327194659_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\migrations\\20240327194659_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\insuserapp\\insuserapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\insuserapp\\insuserapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\insuserapp\\insuserapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\insuserapp\\insuserapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\userinsuranceapp\\server\\insuserapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\insuserapp\\insuserapp\\core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\userinsuranceapp\\server\\insuserapp\\migrations\\20240327194659_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\migrations\\20240327194659_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\insuserapp\\insuserapp\\core\\interfaces\\iinsurancepolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\core\\interfaces\\iinsurancepolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\userinsuranceapp\\server\\insuserapp\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\insuserapp\\insuserapp\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\userinsuranceapp\\server\\insuserapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|c:\\users\\ronan\\source\\repos\\insuserapp\\insuserapp\\core\\models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{884B4DE6-5C22-4DB4-8A03-AF5AABFC34FA}|InsUserApp\\InsUserApp.csproj|solutionrelative:insuserapp\\core\\models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39783D29-6EF1-4266-9201-7BFA2E08601B}|DAL\\DAL.csproj|c:\\users\\ronan\\source\\repos\\userinsuranceapp\\server\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39783D29-6EF1-4266-9201-7BFA2E08601B}|DAL\\DAL.csproj|solutionrelative:dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39783D29-6EF1-4266-9201-7BFA2E08601B}|DAL\\DAL.csproj|c:\\users\\ronan\\source\\repos\\userinsuranceapp\\server\\dal\\insurancepolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39783D29-6EF1-4266-9201-7BFA2E08601B}|DAL\\DAL.csproj|solutionrelative:dal\\insurancepolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39783D29-6EF1-4266-9201-7BFA2E08601B}|DAL\\DAL.csproj|c:\\users\\ronan\\source\\repos\\userinsuranceapp\\server\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39783D29-6EF1-4266-9201-7BFA2E08601B}|DAL\\DAL.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE602837-2F4F-4B05-AB43-532A0FDFE961}|Core\\Core.csproj|c:\\users\\ronan\\source\\repos\\userinsuranceapp\\server\\core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE602837-2F4F-4B05-AB43-532A0FDFE961}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE602837-2F4F-4B05-AB43-532A0FDFE961}|Core\\Core.csproj|c:\\users\\ronan\\source\\repos\\userinsuranceapp\\server\\core\\interfaces\\iinsurancepolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE602837-2F4F-4B05-AB43-532A0FDFE961}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iinsurancepolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39783D29-6EF1-4266-9201-7BFA2E08601B}|DAL\\DAL.csproj|c:\\users\\ronan\\source\\repos\\userinsuranceapp\\server\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39783D29-6EF1-4266-9201-7BFA2E08601B}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\Core\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,155 +62,174 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20240327194659_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Migrations\\20240327194659_InitialCreate.cs",
-              "RelativeDocumentMoniker": "InsUserApp\\Migrations\\20240327194659_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Migrations\\20240327194659_InitialCreate.cs",
-              "RelativeToolTip": "InsUserApp\\Migrations\\20240327194659_InitialCreate.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAA7AAAA",
+              "Title": "20240327194659_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\Migrations\\20240327194659_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "InsUserApp\\Migrations\\20240327194659_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\Migrations\\20240327194659_InitialCreate.Designer.cs",
+              "RelativeToolTip": "InsUserApp\\Migrations\\20240327194659_InitialCreate.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:46:59.657Z",
+              "WhenOpened": "2024-03-28T10:29:05.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\DAL\\UserRepository.cs",
-              "RelativeDocumentMoniker": "InsUserApp\\DAL\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\DAL\\UserRepository.cs",
-              "RelativeToolTip": "InsUserApp\\DAL\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAnwBEAAAAoAAAA",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\Program.cs",
+              "RelativeDocumentMoniker": "InsUserApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\Program.cs",
+              "RelativeToolTip": "InsUserApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:20:21.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InsurancePolicyRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\DAL\\InsurancePolicyRepository.cs",
-              "RelativeDocumentMoniker": "InsUserApp\\DAL\\InsurancePolicyRepository.cs",
-              "ToolTip": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\DAL\\InsurancePolicyRepository.cs",
-              "RelativeToolTip": "InsUserApp\\DAL\\InsurancePolicyRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAYwDIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:18:47.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InsurancePoliciesController.cs",
-              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Controllers\\InsurancePoliciesController.cs",
-              "RelativeDocumentMoniker": "InsUserApp\\Controllers\\InsurancePoliciesController.cs",
-              "ToolTip": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Controllers\\InsurancePoliciesController.cs",
-              "RelativeToolTip": "InsUserApp\\Controllers\\InsurancePoliciesController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAYwEcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:23:32.678Z",
+              "WhenOpened": "2024-03-28T10:26:08.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Program.cs",
-              "RelativeDocumentMoniker": "InsUserApp\\Program.cs",
-              "ToolTip": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Program.cs",
-              "RelativeToolTip": "InsUserApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "InsUserApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "InsUserApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:14:34.83Z"
+              "WhenOpened": "2024-03-28T10:22:41.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "InsUserApp\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "InsUserApp\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:22:16.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsurancePoliciesController.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\Controllers\\InsurancePoliciesController.cs",
+              "RelativeDocumentMoniker": "InsUserApp\\Controllers\\InsurancePoliciesController.cs",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\Controllers\\InsurancePoliciesController.cs",
+              "RelativeToolTip": "InsUserApp\\Controllers\\InsurancePoliciesController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:22:08.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsUserApp",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\InsUserApp.csproj",
+              "RelativeDocumentMoniker": "InsUserApp\\InsUserApp.csproj",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\InsUserApp\\InsUserApp.csproj",
+              "RelativeToolTip": "InsUserApp\\InsUserApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T10:20:48.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\appsettings.json",
-              "RelativeDocumentMoniker": "InsUserApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\appsettings.json",
-              "RelativeToolTip": "InsUserApp\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-27T19:24:49.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "InsUserApp\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "InsUserApp\\DAL\\AppDbContext.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAcAAAAiAAAA",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\DAL\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\UserRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:18:23.716Z"
+              "WhenOpened": "2024-03-28T10:21:59.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "InsUserApp\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "InsUserApp\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAFAAAA",
+              "Title": "InsurancePolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\DAL\\InsurancePolicyRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\InsurancePolicyRepository.cs",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\DAL\\InsurancePolicyRepository.cs",
+              "RelativeToolTip": "DAL\\InsurancePolicyRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:24:31.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Core\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "InsUserApp\\Core\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Core\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "InsUserApp\\Core\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:21:10.603Z"
+              "WhenOpened": "2024-03-28T10:21:51.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IInsurancePolicyRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Core\\Interfaces\\IInsurancePolicyRepository.cs",
-              "RelativeDocumentMoniker": "InsUserApp\\Core\\Interfaces\\IInsurancePolicyRepository.cs",
-              "ToolTip": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Core\\Interfaces\\IInsurancePolicyRepository.cs",
-              "RelativeToolTip": "InsUserApp\\Core\\Interfaces\\IInsurancePolicyRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:20:51.828Z"
+              "WhenOpened": "2024-03-28T10:21:32.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Core\\Models\\User.cs",
-              "RelativeDocumentMoniker": "InsUserApp\\Core\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Core\\Models\\User.cs",
-              "RelativeToolTip": "InsUserApp\\Core\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Title": "IInsurancePolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\Core\\Interfaces\\IInsurancePolicyRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IInsurancePolicyRepository.cs",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\Core\\Interfaces\\IInsurancePolicyRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IInsurancePolicyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:17:59.761Z"
+              "WhenOpened": "2024-03-28T10:21:07.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:16:46.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "InsurancePolicy.cs",
-              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Core\\Models\\InsurancePolicy.cs",
-              "RelativeDocumentMoniker": "InsUserApp\\Core\\Models\\InsurancePolicy.cs",
-              "ToolTip": "C:\\Users\\ronan\\source\\repos\\InsUserApp\\InsUserApp\\Core\\Models\\InsurancePolicy.cs",
-              "RelativeToolTip": "InsUserApp\\Core\\Models\\InsurancePolicy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T10:14:03.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\ronan\\source\\repos\\UserInsuranceApp\\Server\\Core\\Class1.cs",
+              "RelativeToolTip": "Core\\Class1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:17:22.736Z"
+              "WhenOpened": "2024-03-28T10:06:41.535Z"
             }
           ]
         }

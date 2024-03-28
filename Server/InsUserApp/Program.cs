@@ -1,5 +1,5 @@
-using InsUserApp.Core.Interfaces;
-using InsUserApp.DAL;
+using Core.Interfaces;
+using DAL;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
